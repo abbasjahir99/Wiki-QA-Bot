@@ -18,14 +18,30 @@ The system incorporates various components, including a fine-tuned topic classif
 
 ---
 
+## Hosting
+
+The Solr instance was hosted on **Google Cloud Platform (GCP)**. The custom-built Solr core was accessed via a public IP address to retrieve documents relevant to user queries.
+
+---
+
 ### **Technologies Used**
-- **Python**: Core programming language.
-- **Flask**: Web framework for the bot's frontend and backend.
-- **Dash**: Visualization and analytics.
-- **Transformers**: Pre-trained models for question answering, summarization, and topic classification.
-- **Solr**: Document indexing and retrieval.
-- **Groq API**: Query classification as chit-chat or Wiki Q/A.
-- **HTML&CSS**: Frontend design and layout.
+## Technologies Used
+
+- **Backend**:
+  - Flask for the chatbot server.
+  - Solr (hosted on GCP) for document retrieval.
+  - Transformers for fine-tuned models and pre-trained pipelines.
+  - Groq API for query classification (wiki vs. chit-chat).
+- **Frontend**:
+  - HTML/CSS with Bootstrap for responsive UI.
+- **Analytics**:
+  - Dash and Plotly for interactive visualizations.
+- **Machine Learning**:
+  - Fine-tuned transformer models for topic classification and summarization.
+  - Neural conversational model (`DialoGPT`) for chit-chat.
+- **Other Tools**
+  - scikit-learn for feature extraction and similarity calculations.
+
 
 ---
 
@@ -47,21 +63,19 @@ The system incorporates various components, including a fine-tuned topic classif
    ```bash
    pip install -r requirements.txt
    ```
+4. **Replace API Keys:**
+   - Groq API: Replace the api keys with your Groq API key.
+   - Transformer Models: Ensure any fine-tuned models or Hugging Face models use accessible endpoints or tokens **if necessary**.
 
-4. **Start the Solr server:**
-   ```bash
-   cd /path/to/solr
-   bin/solr start
-   ```
+5. **Start the Solr server:**
+   - Ensure the Solr instance is running on GCP.
+   - Configure Solr core with the appropriate schema.
+   - Update the Solr endpoint in app.py.
 
-5. **Run the Flask app:**
+6. **Run the Flask app:**
    ```bash
    python app.py
    ```
-
-6. **Access the app:**
-   Open your browser and navigate to `http://localhost:5000`.
-
 ---
 
 ### **How to Use**
