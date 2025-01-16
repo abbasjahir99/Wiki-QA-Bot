@@ -1,0 +1,178 @@
+[
+    {
+        "timestamp": "2024-12-06T18:28:10.139022",
+        "user_query": "hi",
+        "response": "Hello! D",
+        "predicted_topic": "None",
+        "query_type": "chit-chat",
+        "success": true
+    },
+    {
+        "timestamp": "2024-12-06T18:28:18.427094",
+        "user_query": "how are you?",
+        "response": "I'm fine",
+        "predicted_topic": "None",
+        "query_type": "chit-chat",
+        "success": true
+    },
+    {
+        "timestamp": "2024-12-06T18:28:45.912650",
+        "user_query": "okay, tell me about politics",
+        "response": " Love Me Heal Me Naku Boss Ko is a 2016 Philippine television drama political series broadcast by GMA Network it stars Ruru Madrid . It premiered on April 25 2016 on the networks Telebabad line up replacing Heart of Asia Presents . The series concluded on May 5 2016 with a total of 8 episodes . Muhteem Yzyl is a Turkish historical drama series written by Meral Okay and Ylmaz ahin it is based on the life of Ottoman Sultan Suleiman the Magnificent the longestreigning Sultan of the Ottoman Empire and his wife Hrrem Sultan a slave girl who became the first Ottoman Haseki Sultan It also sheds light on the era known as the Sultanate of Women It was originally broadcast on Show TV and then transferred to Star TV .",
+        "predicted_topic": "Politics",
+        "query_type": "wiki_qa",
+        "success": true
+    },
+    {
+        "timestamp": "2024-12-06T18:29:38.961834",
+        "user_query": "what do you know about bollywood?",
+        "response": " You Dont Know My Name Black Ben Carson is the debut studio album by American rapper JPEGMafia . Lana Del Rey's Paris Texas is a song by American singer Lana del Rey featuring American pianist SYML from her ninth studio album Did You Know That Theres a Tunnel Under Ocean Blvd 2023 This list comprises the entire Beatmania Beatmania IIDX and Beatmania III catalog of music video games . This list does not contain beta demo demo bootlegged or unreleased games this list is incomplete If you know of a release that is not listed please add it to the list . Do What U Like by English boy band Take That was released on 22 July 1991 as the lead single from their debut album Take That  Party 1992 Thomas Evans cowrote their 1970 song Without You",
+        "predicted_topic": "Entertainment",
+        "query_type": "wiki_qa",
+        "success": true
+    },
+    {
+        "timestamp": "2024-12-06T18:30:54.412176",
+        "user_query": "most visited place?",
+        "response": " The Colosseum and the Vatican Museums are the 39th and 37th respectively most visited places in the world according to a 2009 study . In 2005 the city registered 195million of global visitors up of 221 from 2001 In 2006 Rome was visited by 603million international tourists reaching 8th place in the ranking of the world's 150 most visited cities . Tourism in South Korea and its industry caters to both foreign and domestic tourists . The popularity of Korean popular culture often known as the Korean Wave in countries around the world has significantly increased tourist arrivals . In 2023 110 million foreign tourists visited South Korea making it the 20th most visited country . In 2020 there were over 124 million tourists that visited the country in 2020 making Bolivia the ninth most visited .",
+        "predicted_topic": "Travel",
+        "query_type": "wiki_qa",
+        "success": true
+    },
+    {
+        "timestamp": "2024-12-06T18:31:27.868832",
+        "user_query": "tell me something i dont know",
+        "response": " A poster is a large sheet that is placed either on a public space to promote something or on a wall as decoration . The modern poster as we know it dates back to the 1840s and 1850s when the printing industry perfected colour lithography and made mass production possible . Find Me in Paris is an Englishlanguage teen sciencefantasy dramedy series that premiered on April 14 2018 on Hulu produced by ZDF and Cottonwood Media . The need to do something for recreation is an essential element of human biology and psychology . The following is an attempt to explain a few of the more common phrases and words including etymologies when not obvious . Shashi Naidoo is a South African actress television presenter model model MC entrepreneur and fashion blogger .",
+        "predicted_topic": "Travel",
+        "query_type": "wiki_qa",
+        "success": true
+    },
+    {
+        "timestamp": "2024-12-06T18:32:54.834195",
+        "user_query": "explain more about it",
+        "response": " Ukraine used to attract more than 20 million foreign citizens every year but since 2014 this has lowered to about 10million . Visitors primarily come from Eastern Europe but also from Western Europe as well as Turkey and Israel . The market for luxury goods in China composes a significant proportion of all luxury goods sales worldwide . A travel warning travel alert or travel advisory is an official warning statement issued by government agencies to provide information about the relative safety of travelling to or visiting one or more specific foreign countries or destinations . A list of solved missing person cases of people who went missing in unknown locations or unknown circumstances that were eventually explained by their reappearance or the recovery of their bodies . The speed of sound is the distance travelled per unit of time by a sound wave as it .",
+        "predicted_topic": "Travel",
+        "query_type": "wiki_qa",
+        "success": true
+    },
+    {
+        "timestamp": "2024-12-06T18:34:04.133407",
+        "user_query": "sadhfgqdif",
+        "response": "Sorry, I couldn't find any relevant information.",
+        "predicted_topic": "Food",
+        "query_type": "wiki_qa",
+        "success": false
+    },
+    {
+        "timestamp": "2024-12-06T18:35:21.821726",
+        "user_query": "are you stupid?",
+        "response": "I'll allow it.",
+        "predicted_topic": "None",
+        "query_type": "chit-chat",
+        "success": true
+    },
+    {
+        "timestamp": "2024-12-06T18:35:46.571714",
+        "user_query": "aezakmy",
+        "response": "Sorry, I couldn't find any relevant information.",
+        "predicted_topic": "Technology",
+        "query_type": "wiki_qa",
+        "success": false
+    },
+    {
+        "timestamp": "2024-12-06T19:35:32.766360",
+        "user_query": "hey",
+        "response": "Hey. You are my hero.",
+        "predicted_topic": "None",
+        "query_type": "chit-chat",
+        "success": true
+    },
+    {
+        "timestamp": "2024-12-06T19:35:40.631625",
+        "user_query": "thanks",
+        "response": "No problem. I had the same problem, I just made my own USB and it worked out.",
+        "predicted_topic": "None",
+        "query_type": "chit-chat",
+        "success": true
+    },
+    {
+        "timestamp": "2024-12-06T19:35:41.099938",
+        "user_query": "thanks",
+        "response": "You're welcome!",
+        "predicted_topic": "None",
+        "query_type": "chit-chat",
+        "success": true
+    },
+    {
+        "timestamp": "2024-12-06T19:36:09.420482",
+        "user_query": "give me something about politics",
+        "response": " Naku Boss Ko is a 2016 Philippine television drama political series broadcast by GMA Network . It premiered on April 25 2016 on the networks Telebabad line up replacing Heart of Asia Presents . The series concluded on May 5 2016 with a total of 8 episodes . It was replaced by Love Me Heal Me in its timeslot . A different term economic interventionism refers to government interventions into markets at home . A spoils system is a practice in which a political party after winning an election gives government jobs to its supporters friends cronyism and relatives nepotism as a reward for working toward victory . A political party is an organization that coordinates candidates to compete in a particular countrys elections It is common for the members of a party to hold similar ideas about politics",
+        "predicted_topic": "Politics",
+        "query_type": "wiki_qa",
+        "success": true
+    },
+    {
+        "timestamp": "2024-12-06T19:46:56.916775",
+        "user_query": "do people judge?",
+        "response": " Malaysia curbs blasphemy and any insult to religion or to the religious by rigorous control of what people in that country can say or do . Governmentfunded schools teach young Muslims the principles of Sunni Islam and instruct young nonMuslims on morals . The soft power of China is the indirect and nonmilitary influence of the Peoples Republic of China that can be observed outside the country around the world . The Fulbright Program including the FulbrightHays Program is one of several United States cultural exchange programs with the goal of improving intercultural relations cultural diplomacy and intercultural competence between the people of the United States and other countries through the exchange of persons knowledge and skills . Samesex sexual activity has been legal in Ohio since 1974 and samesex marriage has been legally recognized since June 2015",
+        "predicted_topic": "Politics",
+        "query_type": "wiki_qa",
+        "success": true
+    },
+    {
+        "timestamp": "2024-12-06T19:50:25.216958",
+        "user_query": "dfgaiydgfuidlya",
+        "response": "Sorry, I couldn't find any relevant information.",
+        "predicted_topic": "Food",
+        "query_type": "wiki_qa",
+        "success": false
+    },
+    {
+        "timestamp": "2024-12-06T19:50:33.954735",
+        "user_query": "stupid",
+        "response": "Sorry, I couldn't find any relevant information.",
+        "predicted_topic": "Entertainment",
+        "query_type": "wiki_qa",
+        "success": false
+    },
+    {
+        "timestamp": "2024-12-06T19:50:49.829813",
+        "user_query": "you are dumb",
+        "response": "you are also a terrible person",
+        "predicted_topic": "None",
+        "query_type": "chit-chat",
+        "success": true
+    },
+    {
+        "timestamp": "2024-12-06T19:51:27.199953",
+        "user_query": "you should die",
+        "response": " You Are a Tourist is a song by American rock band Death Cab for Cutie . Chor Bazaar is one of the largest flea markets in India located at Mutton street near Bhendi Bazaar in Grant Road South Mumbai . In urban planning walkability is the accessibility of amenities by foot . Frolikha Adventure Coastline Track FACT is a 100km Longdistance trail at the Northern part of Lake Baikal in Siberia Russia The trail was built by Russians and Germans in 2009 to encourage local tourism . FACT was built in 2009 along with CityWalk as part of an expansion that converted Universal Studios Florida into the Universal Orlando Resort . Pay what you can is a nonprofit or forprofit business model which does not depend on set prices for its goods .",
+        "predicted_topic": "Travel",
+        "query_type": "wiki_qa",
+        "success": true
+    },
+    {
+        "timestamp": "2025-01-16T08:55:56.536054",
+        "user_query": "hi",
+        "response": "I'm not sure what you're asking. Could you try rephrasing your query?",
+        "predicted_topic": "None",
+        "query_type": "unknown",
+        "success": false
+    },
+    {
+        "timestamp": "2025-01-16T08:56:02.841914",
+        "user_query": "How are you?",
+        "response": "I'm not sure what you're asking. Could you try rephrasing your query?",
+        "predicted_topic": "None",
+        "query_type": "unknown",
+        "success": false
+    },
+    {
+        "timestamp": "2025-01-16T08:56:08.596225",
+        "user_query": "the fuck?",
+        "response": "I'm not sure what you're asking. Could you try rephrasing your query?",
+        "predicted_topic": "None",
+        "query_type": "unknown",
+        "success": false
+    }
+]
