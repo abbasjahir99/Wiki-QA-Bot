@@ -25,7 +25,6 @@ The Solr instance was hosted on **Google Cloud Platform (GCP)**. The custom-buil
 ---
 
 ### **Technologies Used**
-## Technologies Used
 
 - **Backend**:
   - Flask for the chatbot server.
